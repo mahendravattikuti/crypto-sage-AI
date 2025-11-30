@@ -1,0 +1,5 @@
+{
+  "name": "CryptoSage AI",
+  "description": "A live crypto market analysis chatbot powered by Gemini 3 Pro. Features real-time market data access via Google Search, image analysis for technical charts, and deep thinking capabilities for complex trading strategies.",
+  "requestFramePermissions": []
+}
